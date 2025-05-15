@@ -7,7 +7,7 @@ class varunaditya-plus {
             height: 183vh,
             color: #785040
         };
-        this.currently = 'Stressed for exams (2 weeks left from writing this)';
+        this.currently = 'halfway through exams';
     }
 }
 ```
