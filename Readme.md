@@ -5,7 +5,7 @@ class varunaditya-plus {
         this.nationality = 🇺🇸;
         this.params = { height: 186vh, color: #785040 };
         this.website = 'https://varunaditya.xyz'
-        this.status = 'currently building a cms app'
+        this.status = 'currently stressing through ib'
     }
 }
 ```
