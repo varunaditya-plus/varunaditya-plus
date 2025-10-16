@@ -10,4 +10,4 @@ class varunaditya-plus {
 }
 ```
 <div align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,tailwind,py,rust,react,vite,nextjs,express,postgres,supabase,docker&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,tailwind,py,c,rust,react,vite,nextjs,express,postgres,supabase,docker&theme=dark" />
