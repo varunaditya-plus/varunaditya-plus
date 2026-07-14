@@ -1,13 +1,13 @@
 ```js
 class varunaditya-plus {
     constructor(name, nationality, height, color, website, status) {
-        this.name = 'Varun-Aditya';
-        this.nationality = 🇺🇸;
+        this.name = 'Varun';
+        this.from = '🇺🇸🇪🇸🇮🇳';
         this.params = { height: 186vh, color: #785040 };
         this.website = 'https://varunaditya.xyz'
-        this.status = 'currently stressing through ib'
+        this.status = 'representing spain for the international olympiad of ai'
     }
 }
 ```
 <div align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,tailwind,py,c,rust,react,vite,nextjs,express,postgres,supabase,docker&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,c,cpp,cs,rust,java,py,pytorch,react,vite,nextjs,postgres,supabase,docker&theme=dark" />
